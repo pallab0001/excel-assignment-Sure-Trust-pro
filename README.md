@@ -55,7 +55,7 @@ The assignment focused on advanced Excel tools and techniques to solve real-worl
 
 I’m always eager to connect with data enthusiasts and professionals interested in analytics and business intelligence!
 
-- [LinkedIn](https://www.linkedin.com/) <!-- Add your link -->
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pallab-sardar-761534330/))
 - [GitHub](https://github.com/pallab0001)
 
 ---
